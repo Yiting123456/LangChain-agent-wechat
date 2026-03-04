@@ -1,0 +1,7 @@
+2025-09-18 14:01:53 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-09-18 14:01:53 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-09-18 14:01:53 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Cheng, False, False, 0.5
+2025-09-18 14:01:54 [wxauto] [DEBUG] [main.py:192]  Cheng 切换到聊天窗口: Cheng
+2025-09-18 14:01:54 [wxauto] [DEBUG] [sessionbox.py:152]  打开独立窗口: Cheng
+2025-09-18 14:01:54 [wxauto] [DEBUG] [sessionbox.py:156]  找到会话: Cheng
+2025-09-18 14:02:00 [wxauto] [DEBUG] [wx.py:215]  窗口 Cheng 已关闭，移除监听

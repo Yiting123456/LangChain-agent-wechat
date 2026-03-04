@@ -1,0 +1,340 @@
+2025-09-09 16:29:37 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-09-09 16:29:37 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-09-09 16:29:37 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Promises., False, False, 0.5
+2025-09-09 16:29:38 [wxauto] [DEBUG] [main.py:192]  Promises. 切换到聊天窗口: Promises.
+2025-09-09 16:29:38 [wxauto] [DEBUG] [sessionbox.py:152]  打开独立窗口: Promises.
+2025-09-09 16:29:38 [wxauto] [DEBUG] [sessionbox.py:156]  找到会话: Promises.
+2025-09-09 16:30:45 [wxauto] [DEBUG] [msg.py:79]  content: hi,introduce yourself，what tool, length: 8
+2025-09-09 16:30:45 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-09-09 16:30:46 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - hi,introduce yourself，what tool
+2025-09-09 16:30:46 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-09-09 16:30:48 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000162977B4290>
+2025-09-09 16:30:48 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 16:30:48 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 16:30:48 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 16:30:48 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 16:30:48 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 16:30:50 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 08:30:50 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 16:30:50 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 16:30:50 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 16:30:51 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 16:30:51 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 16:30:51 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 16:30:51 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 16:30:51 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 16:30:51 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 16:30:51 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 16:30:51 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 16:30:52 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 08:30:52 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 16:30:52 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 16:30:52 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 16:30:54 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 16:30:54 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 16:30:54 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 16:30:57 [wxauto] [DEBUG] [msg.py:79]  content: Hello! I am Assistant, a factory data assistant trained for the Andritz Metris Platform. I can help you with a wide range of tasks, from answering simple questions to providing in-depth explanations and discussions. I have access to tools like `match_chinese_semantics` and `get_tag_values` to assist me in my work. How can I help you today?, length: 8
+2025-09-09 16:30:57 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - Hello! I am Assistant, a factory data assistant trained for the Andritz Metris Platform. I can help you with a wide range of tasks, from answering simple questions to providing in-depth explanations and discussions. I have access to tools like `match_chinese_semantics` and `get_tag_values` to assist me in my work. How can I help you today?
+2025-09-09 16:31:34 [wxauto] [DEBUG] [msg.py:79]  content: hi, introduce yourself and what can you do for me , length: 8
+2025-09-09 16:31:34 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-09-09 16:31:34 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - hi, introduce yourself and what can you do for me 
+2025-09-09 16:31:34 [httpcore.connection] [DEBUG] [_trace.py:47]  close.started
+2025-09-09 16:31:34 [httpcore.connection] [DEBUG] [_trace.py:47]  close.complete
+2025-09-09 16:31:34 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-09-09 16:31:36 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000162975E7D90>
+2025-09-09 16:31:36 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 16:31:36 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 16:31:36 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 16:31:36 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 16:31:36 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 16:31:36 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 08:31:36 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 16:31:36 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 16:31:36 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 16:31:38 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 16:31:38 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 16:31:38 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 16:31:41 [wxauto] [DEBUG] [msg.py:79]  content: Hello! I am Assistant, a factory data assistant trained for the Andritz Metris Platform. I can help you with a wide range of tasks, from answering simple questions to providing in-depth explanations and discussions. I have access to tools like `match_chinese_semantics` and `get_tag_values` to assist me in my work. How can I help you today?
+```, length: 8
+2025-09-09 16:31:41 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - Hello! I am Assistant, a factory data assistant trained for the Andritz Metris Platform. I can help you with a wide range of tasks, from answering simple questions to providing in-depth explanations and discussions. I have access to tools like `match_chinese_semantics` and `get_tag_values` to assist me in my work. How can I help you today?
+```
+2025-09-09 16:31:59 [wxauto] [DEBUG] [msg.py:79]  content: iOS, length: 8
+2025-09-09 16:31:59 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-09-09 16:31:59 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - iOS
+2025-09-09 16:31:59 [httpcore.connection] [DEBUG] [_trace.py:47]  close.started
+2025-09-09 16:31:59 [httpcore.connection] [DEBUG] [_trace.py:47]  close.complete
+2025-09-09 16:31:59 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-09-09 16:32:01 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000162977B6550>
+2025-09-09 16:32:01 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 16:32:01 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 16:32:01 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 16:32:01 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 16:32:01 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 16:32:02 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 08:32:02 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 16:32:02 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 16:32:02 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 16:32:03 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 16:32:03 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 16:32:03 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 16:32:06 [wxauto] [DEBUG] [msg.py:79]  content: I'm sorry, I don't understand your request. Could you please rephrase your question or provide more context? I am designed to assist with factory data-related tasks, and my knowledge is focused on industrial processes and equipment. "iOS" doesn't relate to this domain., length: 8
+2025-09-09 16:32:06 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - I'm sorry, I don't understand your request. Could you please rephrase your question or provide more context? I am designed to assist with factory data-related tasks, and my knowledge is focused on industrial processes and equipment. "iOS" doesn't relate to this domain.
+2025-09-09 16:32:18 [wxauto] [DEBUG] [msg.py:79]  content: Nihao , length: 8
+2025-09-09 16:32:18 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-09-09 16:32:18 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - Nihao 
+2025-09-09 16:32:18 [httpcore.connection] [DEBUG] [_trace.py:47]  close.started
+2025-09-09 16:32:18 [httpcore.connection] [DEBUG] [_trace.py:47]  close.complete
+2025-09-09 16:32:18 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-09-09 16:32:20 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000162975E48D0>
+2025-09-09 16:32:20 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 16:32:20 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 16:32:20 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 16:32:20 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 16:32:20 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 16:32:20 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 08:32:20 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 16:32:20 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 16:32:20 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 16:32:21 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 16:32:21 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 16:32:21 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 16:32:21 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 16:32:21 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 16:32:21 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 16:32:21 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 16:32:21 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 16:32:21 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 08:32:21 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 16:32:21 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 16:32:21 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 16:32:22 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 16:32:22 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 16:32:22 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 16:32:24 [wxauto] [DEBUG] [msg.py:79]  content: Hello! How can I help you today?, length: 8
+2025-09-09 16:32:24 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - Hello! How can I help you today?
+2025-09-09 16:32:27 [wxauto] [DEBUG] [msg.py:79]  content: Fan, length: 8
+2025-09-09 16:32:27 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - Fan
+2025-09-09 16:32:27 [httpcore.connection] [DEBUG] [_trace.py:47]  close.started
+2025-09-09 16:32:27 [httpcore.connection] [DEBUG] [_trace.py:47]  close.complete
+2025-09-09 16:32:27 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-09-09 16:32:29 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000162975C0690>
+2025-09-09 16:32:29 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 16:32:29 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 16:32:29 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 16:32:29 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 16:32:29 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 16:32:30 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 08:32:30 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 16:32:30 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 16:32:30 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 16:32:31 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 16:32:31 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 16:32:31 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 16:32:31 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 16:32:31 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 16:32:31 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 16:32:31 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 16:32:31 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 16:32:32 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 08:32:32 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 16:32:32 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 16:32:32 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 16:32:33 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 16:32:33 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 16:32:33 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 16:32:35 [wxauto] [DEBUG] [msg.py:79]  content: Please provide more details about what you're looking for regarding "Fan". For example, are you asking about a specific fan type, its parameters, or its function within a process?, length: 8
+2025-09-09 16:32:35 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - Please provide more details about what you're looking for regarding "Fan". For example, are you asking about a specific fan type, its parameters, or its function within a process?
+2025-09-09 16:56:26 [wxauto] [DEBUG] [wx.py:357]  wxauto("Metris") shutdown
+2025-09-09 17:39:53 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-09-09 17:39:53 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-09-09 17:39:53 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Promises., False, False, 0.5
+2025-09-09 17:39:54 [wxauto] [DEBUG] [main.py:192]  Promises. 切换到聊天窗口: Promises.
+2025-09-09 17:39:54 [wxauto] [DEBUG] [sessionbox.py:152]  打开独立窗口: Promises.
+2025-09-09 17:39:55 [wxauto] [DEBUG] [sessionbox.py:156]  找到会话: Promises.
+2025-09-09 17:41:05 [wxauto] [DEBUG] [msg.py:79]  content: Hello,please introduce yourself and tell me what you can do , length: 8
+2025-09-09 17:41:05 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-09-09 17:41:05 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - Hello,please introduce yourself and tell me what you can do 
+2025-09-09 17:41:06 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-09-09 17:41:08 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001C4E4A9BF50>
+2025-09-09 17:41:08 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 17:41:08 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 17:41:08 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 17:41:08 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 17:41:08 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 17:41:10 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 09:41:10 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 17:41:10 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 17:41:10 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 17:41:12 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 17:41:12 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 17:41:12 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 17:41:16 [wxauto] [DEBUG] [msg.py:79]  content: Hello! I am Assistant, a factory data assistant trained for the Andritz Metris Platform. I can help you with a wide range of tasks, including retrieving tag values based on your descriptions. I can also answer questions and provide in-depth explanations. Essentially, I'm here to assist you with your factory data needs.
+```, length: 8
+2025-09-09 17:41:16 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - Hello! I am Assistant, a factory data assistant trained for the Andritz Metris Platform. I can help you with a wide range of tasks, including retrieving tag values based on your descriptions. I can also answer questions and provide in-depth explanations. Essentially, I'm here to assist you with your factory data needs.
+```
+2025-09-09 17:42:14 [wxauto] [DEBUG] [msg.py:79]  content: Show me related steam tags , length: 8
+2025-09-09 17:42:14 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-09-09 17:42:14 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - Show me related steam tags 
+2025-09-09 17:42:14 [httpcore.connection] [DEBUG] [_trace.py:47]  close.started
+2025-09-09 17:42:14 [httpcore.connection] [DEBUG] [_trace.py:47]  close.complete
+2025-09-09 17:42:14 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-09-09 17:42:16 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001C4E4A6F090>
+2025-09-09 17:42:16 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 17:42:16 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 17:42:16 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 17:42:16 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 17:42:16 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 17:42:16 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 09:42:16 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 17:42:16 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 17:42:16 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 17:42:17 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 17:42:17 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 17:42:17 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 17:42:17 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 17:42:17 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 17:42:17 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 17:42:17 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 17:42:17 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 17:42:18 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 09:42:18 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 17:42:18 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 17:42:18 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 17:42:19 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 17:42:19 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 17:42:19 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 17:42:21 [wxauto] [DEBUG] [msg.py:79]  content: Here are the related steam tags: Steam valve (94), Main_steam_flow (97), Main_steam_pressure (100), Main_steam_conductivity (103), Furnace_pressure (108)., length: 8
+2025-09-09 17:42:21 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - Here are the related steam tags: Steam valve (94), Main_steam_flow (97), Main_steam_pressure (100), Main_steam_conductivity (103), Furnace_pressure (108).
+2025-09-09 17:42:36 [wxauto] [DEBUG] [msg.py:79]  content: ID 100, length: 8
+2025-09-09 17:42:36 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-09-09 17:42:36 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - ID 100
+2025-09-09 17:42:36 [httpcore.connection] [DEBUG] [_trace.py:47]  close.started
+2025-09-09 17:42:36 [httpcore.connection] [DEBUG] [_trace.py:47]  close.complete
+2025-09-09 17:42:36 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-09-09 17:42:38 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001C4DF2D6650>
+2025-09-09 17:42:38 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 17:42:38 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 17:42:38 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 17:42:38 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 17:42:38 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 17:42:39 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 09:42:39 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 17:42:39 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 17:42:39 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 17:42:40 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 17:42:40 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 17:42:40 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 17:42:40 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 17:42:40 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 17:42:40 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 17:42:40 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 17:42:40 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 17:42:40 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 09:42:40 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 17:42:40 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 17:42:40 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 17:42:41 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 17:42:41 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 17:42:41 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 17:42:44 [wxauto] [DEBUG] [msg.py:79]  content: Main_steam_pressure has a value of 95.86683654785156, timestamp of 2025-03-28T02:48:39.605Z, and quality of 192., length: 8
+2025-09-09 17:42:44 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - Main_steam_pressure has a value of 95.86683654785156, timestamp of 2025-03-28T02:48:39.605Z, and quality of 192.
+2025-09-09 17:43:19 [wxauto] [DEBUG] [msg.py:79]  content: Black liquid , length: 8
+2025-09-09 17:43:19 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-09-09 17:43:19 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - Black liquid 
+2025-09-09 17:43:19 [httpcore.connection] [DEBUG] [_trace.py:47]  close.started
+2025-09-09 17:43:19 [httpcore.connection] [DEBUG] [_trace.py:47]  close.complete
+2025-09-09 17:43:19 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-09-09 17:43:21 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001C4E48F7990>
+2025-09-09 17:43:21 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 17:43:21 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 17:43:21 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 17:43:21 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 17:43:21 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 17:43:22 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 09:43:22 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 17:43:22 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 17:43:22 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 17:43:23 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 17:43:23 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 17:43:23 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 17:43:23 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 17:43:23 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 17:43:23 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 17:43:23 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 17:43:23 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 17:43:24 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 09:43:24 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 17:43:24 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 17:43:24 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 17:43:24 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 17:43:24 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 17:43:24 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 17:43:24 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 17:43:24 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 17:43:24 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 17:43:24 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 17:43:24 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 17:43:25 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 09:43:25 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 17:43:25 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 17:43:25 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 17:43:26 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 17:43:26 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 17:43:26 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 17:43:29 [wxauto] [DEBUG] [msg.py:79]  content: Black liquor flow has a value of -1.0, timestamp of 2025-02-11T01:45:03.023Z, and quality of null., length: 8
+2025-09-09 17:43:29 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - Black liquor flow has a value of -1.0, timestamp of 2025-02-11T01:45:03.023Z, and quality of null.
+2025-09-09 17:44:46 [wxauto] [DEBUG] [msg.py:79]  content: 吹风机流量, length: 8
+2025-09-09 17:44:46 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-09-09 17:44:46 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - 吹风机流量
+2025-09-09 17:44:46 [httpcore.connection] [DEBUG] [_trace.py:47]  close.started
+2025-09-09 17:44:46 [httpcore.connection] [DEBUG] [_trace.py:47]  close.complete
+2025-09-09 17:44:46 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-09-09 17:44:48 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001C4E4AA3950>
+2025-09-09 17:44:48 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 17:44:48 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 17:44:48 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 17:44:48 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 17:44:48 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 17:44:49 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 09:44:49 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 17:44:49 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 17:44:49 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 17:44:50 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 17:44:50 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 17:44:50 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 17:44:50 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 17:44:50 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 17:44:50 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 17:44:50 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 17:44:50 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 17:44:51 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 09:44:51 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 17:44:51 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 17:44:51 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 17:44:52 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 17:44:52 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 17:44:52 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 17:44:52 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-09-09 17:44:52 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-09-09 17:44:52 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-09-09 17:44:52 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-09-09 17:44:52 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-09-09 17:44:53 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Tue, 09 Sep 2025 09:44:53 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-09-09 17:44:53 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-09-09 17:44:53 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-09-09 17:44:54 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-09-09 17:44:54 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-09-09 17:44:54 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-09-09 17:44:57 [wxauto] [DEBUG] [msg.py:79]  content: Here is the value for Main_steam_flow, which is 236.65179443359375, timestamp of 2025-02-11T06:17:15.834Z, and quality of 192., length: 8
+2025-09-09 17:44:57 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - Here is the value for Main_steam_flow, which is 236.65179443359375, timestamp of 2025-02-11T06:17:15.834Z, and quality of 192.
+2025-09-10 09:16:26 [wxauto] [DEBUG] [wx.py:46]  监听消息失败：Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 44, in _listener_listen
+    self._get_listen_messages()
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 221, in _get_listen_messages
+    msgs = chat.GetNewMessage()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 155, in GetNewMessage
+    if (_last_chat := self.ChatInfo().get('chat_name')) != self._last_chat:
+                      ^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 89, in ChatInfo
+    return self.core.chatbox.get_info()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\ui\chatbox.py", line 98, in get_info
+    if self.control.ButtonControl(Name='公众号主页', searchDepth=9).Exists(0):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\uiautomation.py", line 6023, in Exists
+    control = FindControl(self.searchFromControl, self._CompareFunction, self.searchDepth, False, self.foundIndex)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\uiautomation.py", line 7903, in FindControl
+    for child, depth in WalkControl(control, findFromSelf, maxDepth):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\uiautomation.py", line 7777, in WalkControl
+    child = lastControl.GetNextSiblingControl()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\uiautomation.py", line 5858, in GetNextSiblingControl
+    ele = _AutomationClient.instance().ViewWalker.GetNextSiblingElement(self.Element)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ctypes.COMError: (-2147220991, 'An event was unable to invoke any of the subscribers', (None, None, None, 0, None))
+
+2025-09-10 09:16:27 [wxauto] [DEBUG] [wx.py:215]  窗口 Promises. 已关闭，移除监听

@@ -1,0 +1,13 @@
+2025-09-16 17:16:58 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-09-16 17:16:58 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-09-16 17:16:58 [wxauto] [DEBUG] [main.py:188]  Promises. 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("Promises.")>
+2025-09-16 17:19:12 [wxauto] [DEBUG] [wx.py:357]  wxauto("Metris") shutdown
+2025-09-16 17:19:43 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-09-16 17:19:43 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-09-16 17:20:41 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-09-16 17:20:41 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-09-16 17:20:41 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Cheng, False, False, 0.5
+2025-09-16 17:20:42 [wxauto] [DEBUG] [main.py:192]  Cheng 切换到聊天窗口: Cheng
+2025-09-16 17:20:42 [wxauto] [DEBUG] [sessionbox.py:152]  打开独立窗口: Cheng
+2025-09-16 17:20:42 [wxauto] [DEBUG] [sessionbox.py:156]  找到会话: Cheng
+2025-09-18 14:00:34 [wxauto] [DEBUG] [wx.py:357]  wxauto("Metris") shutdown

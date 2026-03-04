@@ -1,0 +1,1129 @@
+2025-07-28 10:27:54 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 10:27:54 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Promises., False, False, 0.5
+2025-07-28 10:27:56 [wxauto] [DEBUG] [msg.py:79]  content: 你好, length: 8
+2025-07-28 10:27:56 [wxauto] [DEBUG] [msg.py:79]  content: 你好, length: 8
+2025-07-28 10:27:56 [wxauto] [DEBUG] [msg.py:79]  content: 你好, length: 8
+2025-07-28 10:43:05 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 10:43:43 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 10:49:26 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 10:54:11 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 10:54:49 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 10:54:49 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Promises., False, False, 0.5
+2025-07-28 10:54:50 [wxauto] [DEBUG] [main.py:192]  Promises. 切换到聊天窗口: Promises.
+2025-07-28 10:54:50 [wxauto] [DEBUG] [sessionbox.py:152]  打开独立窗口: Promises.
+2025-07-28 10:54:50 [wxauto] [DEBUG] [sessionbox.py:156]  找到会话: Promises.
+2025-07-28 10:57:54 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 10:57:54 [wxauto] [DEBUG] [main.py:188]  Promises. 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("Promises.")>
+2025-07-28 10:58:16 [wxauto] [DEBUG] [msg.py:79]  content: 1, length: 8
+2025-07-28 10:58:16 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-07-28 10:58:16 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+TypeError: <lambda>() takes 1 positional argument but 2 were given
+
+2025-07-28 10:58:16 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - 1
+2025-07-28 10:58:16 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+TypeError: <lambda>() takes 1 positional argument but 2 were given
+
+2025-07-28 11:06:20 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 11:06:20 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Promises., False, False, 0.5
+2025-07-28 11:06:21 [wxauto] [DEBUG] [sessionbox.py:128]  Promises. 完整匹配
+2025-07-28 11:08:17 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 11:08:17 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Promises., False, False, 0.5
+2025-07-28 11:08:18 [wxauto] [DEBUG] [sessionbox.py:128]  Promises. 完整匹配
+2025-07-28 11:08:18 [wxauto] [DEBUG] [main.py:188]  Promises. 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("Promises.")>
+2025-07-28 11:08:49 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 11:08:50 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Promises., False, False, 0.5
+2025-07-28 11:08:50 [wxauto] [DEBUG] [main.py:192]  Promises. 切换到聊天窗口: Promises.
+2025-07-28 11:08:50 [wxauto] [DEBUG] [sessionbox.py:152]  打开独立窗口: Promises.
+2025-07-28 11:08:50 [wxauto] [DEBUG] [sessionbox.py:156]  找到会话: Promises.
+2025-07-28 15:08:00 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 15:27:32 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 15:27:32 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 15:27:32 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 15:44:41 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 15:44:58 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 15:44:58 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Promises., False, False, 0.5
+2025-07-28 15:44:59 [wxauto] [DEBUG] [main.py:192]  Promises. 切换到聊天窗口: Promises.
+2025-07-28 15:44:59 [wxauto] [DEBUG] [sessionbox.py:152]  打开独立窗口: Promises.
+2025-07-28 15:44:59 [wxauto] [DEBUG] [sessionbox.py:156]  找到会话: Promises.
+2025-07-28 15:46:50 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 15:47:40 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 15:48:55 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:04:25 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:04:25 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:04:25 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:04:25 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:04:25 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Promises., False, False, 0.5
+2025-07-28 16:04:26 [wxauto] [DEBUG] [main.py:192]  Promises. 切换到聊天窗口: Promises.
+2025-07-28 16:04:26 [wxauto] [DEBUG] [sessionbox.py:152]  打开独立窗口: Promises.
+2025-07-28 16:04:26 [wxauto] [DEBUG] [sessionbox.py:156]  找到会话: Promises.
+2025-07-28 16:04:36 [wxauto] [DEBUG] [msg.py:79]  content: hi, length: 8
+2025-07-28 16:04:36 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-07-28 16:04:37 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "c:\Users\Administrator\yt\lc\main.py", line 62, in my_callback
+    reply = ollama_reply(chat.who, msg.content)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\yt\lc\main.py", line 42, in ollama_reply
+    agent = create_react_agent(llm, tools, base_prompt)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\react\agent.py", line 125, in create_react_agent
+    raise ValueError(msg)
+ValueError: Prompt missing required variables: {'tool_names', 'tools'}
+
+2025-07-28 16:04:37 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - hi
+2025-07-28 16:04:38 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "c:\Users\Administrator\yt\lc\main.py", line 62, in my_callback
+    reply = ollama_reply(chat.who, msg.content)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\yt\lc\main.py", line 42, in ollama_reply
+    agent = create_react_agent(llm, tools, base_prompt)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\react\agent.py", line 125, in create_react_agent
+    raise ValueError(msg)
+ValueError: Prompt missing required variables: {'tool_names', 'tools'}
+
+2025-07-28 16:04:48 [wxauto] [DEBUG] [msg.py:79]  content: 3, length: 8
+2025-07-28 16:04:48 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-07-28 16:04:49 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "c:\Users\Administrator\yt\lc\main.py", line 62, in my_callback
+    reply = ollama_reply(chat.who, msg.content)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\yt\lc\main.py", line 42, in ollama_reply
+    agent = create_react_agent(llm, tools, base_prompt)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\react\agent.py", line 125, in create_react_agent
+    raise ValueError(msg)
+ValueError: Prompt missing required variables: {'tool_names', 'tools'}
+
+2025-07-28 16:04:49 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - 3
+2025-07-28 16:04:49 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "c:\Users\Administrator\yt\lc\main.py", line 62, in my_callback
+    reply = ollama_reply(chat.who, msg.content)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\yt\lc\main.py", line 42, in ollama_reply
+    agent = create_react_agent(llm, tools, base_prompt)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\react\agent.py", line 125, in create_react_agent
+    raise ValueError(msg)
+ValueError: Prompt missing required variables: {'tool_names', 'tools'}
+
+2025-07-28 16:04:58 [wxauto] [DEBUG] [wx.py:357]  wxauto("Metris") shutdown
+2025-07-28 16:10:11 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:10:11 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:10:11 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:10:11 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:10:11 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Promises., False, False, 0.5
+2025-07-28 16:10:12 [wxauto] [DEBUG] [main.py:192]  Promises. 切换到聊天窗口: Promises.
+2025-07-28 16:10:12 [wxauto] [DEBUG] [sessionbox.py:152]  打开独立窗口: Promises.
+2025-07-28 16:10:12 [wxauto] [DEBUG] [sessionbox.py:156]  找到会话: Promises.
+2025-07-28 16:10:21 [wxauto] [DEBUG] [msg.py:79]  content: 4, length: 8
+2025-07-28 16:10:21 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-07-28 16:10:21 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:10:22 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:10:22 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:10:22 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:10:22 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:10:22 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:10:22 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:10:24 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001EAA3EAF690>
+2025-07-28 16:10:24 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:10:24 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:10:24 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:10:24 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:10:24 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:10:29 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 500, b'Internal Server Error', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Mon, 28 Jul 2025 08:10:29 GMT'), (b'Content-Length', b'59')])
+2025-07-28 16:10:29 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 500 Internal Server Error"
+2025-07-28 16:10:29 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:10:29 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:10:29 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:10:29 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:10:31 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - 4
+2025-07-28 16:10:31 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:10:31 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:10:31 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:10:31 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:10:31 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:10:32 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:10:32 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:10:34 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001EAA48BE250>
+2025-07-28 16:10:34 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:10:34 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:10:34 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:10:34 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:10:34 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:11:02 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:11:02 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:11:02 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:11:02 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:11:08 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:11:08 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:11:08 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:11:11 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:11:11 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:11:11 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:11:11 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:11:11 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:11:12 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:11:12 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:11:12 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:11:12 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:11:15 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:11:15 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:11:15 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:11:18 [wxauto] [DEBUG] [msg.py:79]  content: 抱歉，我现在无法回复。, length: 8
+2025-07-28 16:11:18 [wxauto] [DEBUG] [msg.py:79]  content: 抱歉，我现在无法回复。, length: 8
+2025-07-28 16:11:18 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - 抱歉，我现在无法回复。
+2025-07-28 16:11:18 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:11:18 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:11:18 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:11:19 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:11:19 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:11:19 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:11:21 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001EAA48CB750>
+2025-07-28 16:11:21 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:11:21 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:11:21 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:11:21 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:11:21 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:11:21 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:11:21 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:11:21 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:11:21 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:11:22 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:11:36 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:11:36 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:11:36 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:11:37 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - 抱歉，我现在无法回复。
+2025-07-28 16:11:37 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:11:38 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:11:38 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:11:38 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:11:38 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:11:38 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:11:40 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001EAA3E8FB90>
+2025-07-28 16:11:40 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:11:40 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:11:40 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:11:40 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:11:40 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:11:41 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:11:41 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:11:41 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:11:41 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:11:41 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:11:41 [wxauto] [DEBUG] [wx.py:357]  wxauto("Metris") shutdown
+2025-07-28 16:11:52 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:11:52 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:11:52 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:11:54 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:11:54 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:11:54 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:11:54 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:15:20 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:15:20 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:15:20 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:15:20 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:15:20 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Promises., False, False, 0.5
+2025-07-28 16:15:21 [wxauto] [DEBUG] [main.py:192]  Promises. 切换到聊天窗口: Promises.
+2025-07-28 16:15:21 [wxauto] [DEBUG] [sessionbox.py:152]  打开独立窗口: Promises.
+2025-07-28 16:15:21 [wxauto] [DEBUG] [sessionbox.py:156]  找到会话: Promises.
+2025-07-28 16:15:29 [wxauto] [DEBUG] [msg.py:79]  content: 4, length: 8
+2025-07-28 16:15:29 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-07-28 16:15:29 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:15:29 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:15:29 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:15:29 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:15:29 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:15:30 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:15:30 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:15:32 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002918DF37550>
+2025-07-28 16:15:32 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:15:32 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:15:32 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:15:32 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:15:32 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:15:32 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:15:32 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:15:32 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:15:32 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:15:57 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:15:57 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:15:57 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:15:58 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "c:\Users\Administrator\yt\lc\main.py", line 54, in my_callback
+    chat.SendMsg(reply)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 111, in SendMsg
+    return self.core.send_msg(msg, who, clear, at, exact)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\ui\main.py", line 82, in send_msg
+    return chatbox.send_msg(msg, clear, at)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\ui\chatbox.py", line 188, in send_msg
+    return self.send_text(content)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\ui\chatbox.py", line 154, in send_text
+    SetClipboardText(content)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\utils\win32.py", line 213, in SetClipboardText
+    pyperclip.copy(text)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\pyperclip\__init__.py", line 659, in lazy_load_stub_copy
+    return copy(text)
+           ^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\pyperclip\__init__.py", line 463, in copy_windows
+    text = _stringifyText(text) # Converts non-str values to str.
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\pyperclip\__init__.py", line 111, in _stringifyText
+    raise PyperclipException('only str, int, float, and bool values can be copied to the clipboard, not %s' % (text.__class__.__name__))
+pyperclip.PyperclipException: only str, int, float, and bool values can be copied to the clipboard, not dict
+
+2025-07-28 16:15:58 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - 4
+2025-07-28 16:15:58 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:15:58 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:15:58 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:15:58 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:15:58 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:15:59 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:15:59 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:16:01 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002918E953090>
+2025-07-28 16:16:01 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:16:01 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:16:01 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:16:01 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:16:01 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:16:01 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:16:01 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:16:01 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:16:01 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:16:11 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:16:11 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:16:11 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:16:12 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:16:12 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:16:12 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:16:12 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:16:12 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:16:12 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:16:12 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:16:12 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:16:12 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:16:17 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:16:17 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:16:17 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:16:17 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 1352, in _iter_next_step
+    output = self._action_agent.plan(
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 455, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 3437, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 3423, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 2214, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 3385, in _transform
+    yield from final_pipeline
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 1446, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 1014, in stream
+    yield self.invoke(input, config, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\output_parsers\base.py", line 196, in invoke
+    return self._call_with_config(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 1939, in _call_with_config
+    context.run(
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\config.py", line 429, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\output_parsers\base.py", line 197, in <lambda>
+    lambda inner_input: self.parse_result(
+                        ^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\output_parsers\base.py", line 250, in parse_result
+    return self.parse(result[0].text)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\output_parsers\react_single_input.py", line 76, in parse
+    raise OutputParserException(
+langchain_core.exceptions.OutputParserException: Could not parse LLM output: `<think>
+
+标签ID为4的值为34.59（保留两位小数），该数据的时间戳为2025年4月1日16:48:10，质量评分为192。需要我为您查询其他标签信息吗？`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "c:\Users\Administrator\yt\lc\main.py", line 53, in my_callback
+    reply = ollama_reply(chat.who, msg.content)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\yt\lc\main.py", line 42, in ollama_reply
+    response = agent_executor.invoke({"input": message})
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\chains\base.py", line 165, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 1625, in _call
+    next_step_output = self._take_next_step(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 1325, in _take_next_step
+    list(
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 1369, in _iter_next_step
+    raise ValueError(msg) from e
+ValueError: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `<think>
+
+标签ID为4的值为34.59（保留两位小数），该数据的时间戳为2025年4月1日16:48:10，质量评分为192。需要我为您查询其他标签信息吗？`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+
+2025-07-28 16:18:11 [wxauto] [DEBUG] [wx.py:215]  窗口 Promises. 已关闭，移除监听
+2025-07-28 16:19:11 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:19:11 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:19:11 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:19:11 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:19:12 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Promises., False, False, 0.5
+2025-07-28 16:19:12 [wxauto] [DEBUG] [main.py:192]  Promises. 切换到聊天窗口: Promises.
+2025-07-28 16:19:12 [wxauto] [DEBUG] [sessionbox.py:152]  打开独立窗口: Promises.
+2025-07-28 16:19:13 [wxauto] [DEBUG] [sessionbox.py:156]  找到会话: Promises.
+2025-07-28 16:19:20 [wxauto] [DEBUG] [msg.py:79]  content: 5, length: 8
+2025-07-28 16:19:20 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-07-28 16:19:21 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:19:21 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:19:21 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:19:21 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:19:21 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:19:21 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:19:21 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:19:23 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001C7096AF590>
+2025-07-28 16:19:23 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:19:23 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:19:23 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:19:23 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:19:23 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:19:24 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:19:24 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:19:24 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:19:24 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:19:53 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:19:53 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:19:53 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:19:54 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "c:\Users\Administrator\yt\lc\main.py", line 54, in my_callback
+    chat.SendMsg(reply)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 111, in SendMsg
+    return self.core.send_msg(msg, who, clear, at, exact)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\ui\main.py", line 82, in send_msg
+    return chatbox.send_msg(msg, clear, at)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\ui\chatbox.py", line 188, in send_msg
+    return self.send_text(content)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\ui\chatbox.py", line 154, in send_text
+    SetClipboardText(content)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\utils\win32.py", line 213, in SetClipboardText
+    pyperclip.copy(text)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\pyperclip\__init__.py", line 659, in lazy_load_stub_copy
+    return copy(text)
+           ^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\pyperclip\__init__.py", line 463, in copy_windows
+    text = _stringifyText(text) # Converts non-str values to str.
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\pyperclip\__init__.py", line 111, in _stringifyText
+    raise PyperclipException('only str, int, float, and bool values can be copied to the clipboard, not %s' % (text.__class__.__name__))
+pyperclip.PyperclipException: only str, int, float, and bool values can be copied to the clipboard, not dict
+
+2025-07-28 16:19:54 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - 5
+2025-07-28 16:19:54 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:19:54 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:19:54 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:19:54 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:19:54 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:19:55 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:19:55 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:19:57 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001C70A0D1F50>
+2025-07-28 16:19:57 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:19:57 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:19:57 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:19:57 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:19:57 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:19:57 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:19:57 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:19:57 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:19:57 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:20:17 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:20:17 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:20:17 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:20:17 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:20:17 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:20:17 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:20:17 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:20:17 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:20:18 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:20:18 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:20:18 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:20:18 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:20:24 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:20:24 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:20:24 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:20:24 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "c:\Users\Administrator\yt\lc\main.py", line 54, in my_callback
+    chat.SendMsg(reply)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 111, in SendMsg
+    return self.core.send_msg(msg, who, clear, at, exact)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\ui\main.py", line 82, in send_msg
+    return chatbox.send_msg(msg, clear, at)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\ui\chatbox.py", line 188, in send_msg
+    return self.send_text(content)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\ui\chatbox.py", line 154, in send_text
+    SetClipboardText(content)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\utils\win32.py", line 213, in SetClipboardText
+    pyperclip.copy(text)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\pyperclip\__init__.py", line 463, in copy_windows
+    text = _stringifyText(text) # Converts non-str values to str.
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\pyperclip\__init__.py", line 111, in _stringifyText
+    raise PyperclipException('only str, int, float, and bool values can be copied to the clipboard, not %s' % (text.__class__.__name__))
+pyperclip.PyperclipException: only str, int, float, and bool values can be copied to the clipboard, not dict
+
+2025-07-28 16:24:34 [wxauto] [DEBUG] [wx.py:357]  wxauto("Metris") shutdown
+2025-07-28 16:24:35 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:24:35 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:25:06 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:25:06 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:25:07 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:25:07 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:25:07 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:30:00 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:30:00 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:30:00 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:30:00 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:30:00 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:30:39 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:30:39 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:30:40 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:30:40 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:30:40 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:32:06 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:32:06 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:32:06 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:32:06 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:32:07 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Promises., False, False, 0.5
+2025-07-28 16:32:07 [wxauto] [DEBUG] [main.py:192]  Promises. 切换到聊天窗口: Promises.
+2025-07-28 16:32:07 [wxauto] [DEBUG] [sessionbox.py:152]  打开独立窗口: Promises.
+2025-07-28 16:32:08 [wxauto] [DEBUG] [sessionbox.py:156]  找到会话: Promises.
+2025-07-28 16:32:17 [wxauto] [DEBUG] [msg.py:79]  content: 77, length: 8
+2025-07-28 16:32:17 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-07-28 16:32:17 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:32:17 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:32:17 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:32:17 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:32:17 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:32:18 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:32:18 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:32:20 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000025601BEF750>
+2025-07-28 16:32:20 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:32:20 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:32:20 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:32:20 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:32:20 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:32:20 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:32:20 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:32:20 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:32:20 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:32:51 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:32:51 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:32:51 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:32:53 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - 77
+2025-07-28 16:32:53 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:32:53 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:32:53 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:32:53 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:32:53 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:32:54 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:32:54 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:32:56 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000025602671810>
+2025-07-28 16:32:56 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:32:56 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:32:56 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:32:56 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:32:56 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:32:56 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:32:56 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:32:56 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:32:56 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:33:19 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:33:19 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:33:19 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:33:19 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:33:19 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:33:19 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:33:19 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:33:19 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:33:20 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:33:20 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:33:20 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:33:20 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:33:49 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:33:49 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:33:49 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:33:49 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 1352, in _iter_next_step
+    output = self._action_agent.plan(
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 455, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 3437, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 3423, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 2214, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 3385, in _transform
+    yield from final_pipeline
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 1446, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 1014, in stream
+    yield self.invoke(input, config, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\output_parsers\base.py", line 196, in invoke
+    return self._call_with_config(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 1939, in _call_with_config
+    context.run(
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\config.py", line 429, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\output_parsers\base.py", line 197, in <lambda>
+    lambda inner_input: self.parse_result(
+                        ^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\output_parsers\base.py", line 250, in parse_result
+    return self.parse(result[0].text)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\output_parsers\react_single_input.py", line 76, in parse
+    raise OutputParserException(
+langchain_core.exceptions.OutputParserException: Could not parse LLM output: `<think>
+Okay, the user input was 77, and I used the get_tag_values tool to query it. The response from the tool is a list containing a dictionary with 'tagID', 'timestamp', and 'quality' keys. The user probably wants the value associated with tagID 77. However, the tool's response doesn't include a 'value' field; it has 'quality' instead. Maybe 'quality' is the value they're looking for. I should check the tool's description again. The tool's example response included 'value', but in this case, the actual response has 'quality'. Perhaps the tool's response structure varies. I need to inform the user of the available data, which is the timestamp and quality. Since there's no 'value' field, I should mention that the query returned the timestamp and quality instead. I should present this information clearly and ask if they need anything else.
+</think>
+
+标签ID为77的查询结果如下：
+- 最新时间戳：2025-03-28 02:48:21.599
+- 数据质量码：192（表示数据有效且无异常）
+
+当前返回结果中未包含具体数值型"值"字段，仅包含时间戳和质量码信息。需要其他帮助吗？`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "c:\Users\Administrator\yt\lc\main.py", line 54, in my_callback
+    reply = ollama_reply(chat.who, msg.content)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\yt\lc\main.py", line 42, in ollama_reply
+    response = agent_executor.invoke({"input": message})
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\chains\base.py", line 165, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 1625, in _call
+    next_step_output = self._take_next_step(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 1325, in _take_next_step
+    list(
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 1369, in _iter_next_step
+    raise ValueError(msg) from e
+ValueError: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `<think>
+Okay, the user input was 77, and I used the get_tag_values tool to query it. The response from the tool is a list containing a dictionary with 'tagID', 'timestamp', and 'quality' keys. The user probably wants the value associated with tagID 77. However, the tool's response doesn't include a 'value' field; it has 'quality' instead. Maybe 'quality' is the value they're looking for. I should check the tool's description again. The tool's example response included 'value', but in this case, the actual response has 'quality'. Perhaps the tool's response structure varies. I need to inform the user of the available data, which is the timestamp and quality. Since there's no 'value' field, I should mention that the query returned the timestamp and quality instead. I should present this information clearly and ask if they need anything else.
+</think>
+
+标签ID为77的查询结果如下：
+- 最新时间戳：2025-03-28 02:48:21.599
+- 数据质量码：192（表示数据有效且无异常）
+
+当前返回结果中未包含具体数值型"值"字段，仅包含时间戳和质量码信息。需要其他帮助吗？`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+
+2025-07-28 16:33:51 [wxauto] [DEBUG] [msg.py:79]  content: 您好，请问您需要查询哪些标签的值，或者有什么其他问题需要帮助吗？, length: 8
+2025-07-28 16:33:51 [wxauto] [DEBUG] [msg.py:79]  content: 查询44, length: 8
+2025-07-28 16:33:51 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - 您好，请问您需要查询哪些标签的值，或者有什么其他问题需要帮助吗？
+2025-07-28 16:33:51 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:33:53 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:33:53 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:33:53 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:33:53 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:33:54 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:33:56 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000025601BD2950>
+2025-07-28 16:33:56 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:33:56 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:33:56 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:33:56 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:33:56 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:33:56 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:33:56 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:33:56 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:33:56 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:33:57 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:34:25 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:34:25 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:34:25 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:34:26 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-07-28 16:34:27 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:34:27 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:34:27 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:34:27 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:34:27 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:34:27 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:34:29 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000025602649390>
+2025-07-28 16:34:29 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:34:29 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:34:29 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:34:29 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:34:29 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:34:30 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:34:30 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:34:30 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:34:30 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:34:31 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:34:33 [wxauto] [DEBUG] [wx.py:357]  wxauto("Metris") shutdown
+2025-07-28 16:35:04 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:35:04 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:35:04 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:35:04 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - 查询44
+2025-07-28 16:35:04 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:35:04 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:35:04 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:35:04 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:35:04 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:35:05 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:35:07 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000025602772490>
+2025-07-28 16:35:07 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:35:07 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:35:07 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:35:07 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:35:07 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:35:07 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:35:07 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:35:07 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:35:07 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:35:08 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:35:36 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:35:36 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:35:36 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:35:36 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:35:36 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:35:36 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:35:36 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:35:36 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:35:37 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:35:37 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:35:37 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:35:37 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:36:00 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:36:00 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:36:00 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:36:00 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 1352, in _iter_next_step
+    output = self._action_agent.plan(
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 455, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 3437, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 3423, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 2214, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 3385, in _transform
+    yield from final_pipeline
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 1446, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 1014, in stream
+    yield self.invoke(input, config, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\output_parsers\base.py", line 196, in invoke
+    return self._call_with_config(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 1939, in _call_with_config
+    context.run(
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\config.py", line 429, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\output_parsers\base.py", line 197, in <lambda>
+    lambda inner_input: self.parse_result(
+                        ^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\output_parsers\base.py", line 250, in parse_result
+    return self.parse(result[0].text)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\output_parsers\react_single_input.py", line 76, in parse
+    raise OutputParserException(
+langchain_core.exceptions.OutputParserException: Could not parse LLM output: `<think>
+Okay, the user asked to query tag ID 44. I called the get_tag_values tool with 44 as the input. The response came back with a dictionary containing 'tagID', 'timestamp', and 'quality' keys. The value for 'quality' is 192. I need to present this information clearly to the user.
+
+First, I should confirm the tag ID they asked about. Then, report the quality value and the timestamp. Make sure to mention that the data is current as of the timestamp provided. Keep the response straightforward and avoid any technical jargon. Let me check if there's anything else needed. The user might want more details or have follow-up questions, so I should offer further assistance. Alright, time to put that together.
+</think>
+
+标签ID为44的最新数据如下：
+- 当前质量值：192
+- 数据时间戳：2025-04-01 16:48:10（UTC时间）
+
+该数据为最新一次记录，如需其他标签值或进一步分析，请随时告知。`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "c:\Users\Administrator\yt\lc\main.py", line 54, in my_callback
+    print(f"[{chat.who}] : {msg.content}")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\yt\lc\main.py", line 42, in ollama_reply
+    response = agent_executor.invoke({"input": message})
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\chains\base.py", line 165, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 1625, in _call
+    next_step_output = self._take_next_step(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 1325, in _take_next_step
+    list(
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 1369, in _iter_next_step
+    raise ValueError(msg) from e
+ValueError: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `<think>
+Okay, the user asked to query tag ID 44. I called the get_tag_values tool with 44 as the input. The response came back with a dictionary containing 'tagID', 'timestamp', and 'quality' keys. The value for 'quality' is 192. I need to present this information clearly to the user.
+
+First, I should confirm the tag ID they asked about. Then, report the quality value and the timestamp. Make sure to mention that the data is current as of the timestamp provided. Keep the response straightforward and avoid any technical jargon. Let me check if there's anything else needed. The user might want more details or have follow-up questions, so I should offer further assistance. Alright, time to put that together.
+</think>
+
+标签ID为44的最新数据如下：
+- 当前质量值：192
+- 数据时间戳：2025-04-01 16:48:10（UTC时间）
+
+该数据为最新一次记录，如需其他标签值或进一步分析，请随时告知。`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+
+2025-07-28 16:36:01 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:36:01 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:36:01 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:36:01 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:36:01 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:50:00 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:50:00 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:50:01 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:50:01 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:50:01 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Promises., False, False, 0.5
+2025-07-28 16:50:01 [wxauto] [DEBUG] [main.py:192]  Promises. 切换到聊天窗口: Promises.
+2025-07-28 16:50:01 [wxauto] [DEBUG] [sessionbox.py:152]  打开独立窗口: Promises.
+2025-07-28 16:50:02 [wxauto] [DEBUG] [sessionbox.py:156]  找到会话: Promises.
+2025-07-28 16:50:06 [wxauto] [DEBUG] [msg.py:79]  content: hi, length: 8
+2025-07-28 16:50:06 [wxauto] [DEBUG] [wx.py:223]  [time base]获取到新消息：Promises. - 4:50 PM
+2025-07-28 16:50:06 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:50:06 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:50:06 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:50:06 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:50:06 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:50:07 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:50:07 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:50:09 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001BC1DEC1710>
+2025-07-28 16:50:09 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:50:09 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:50:09 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:50:09 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:50:09 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:50:21 [wxauto] [DEBUG] [wx.py:357]  wxauto("Metris") shutdown
+2025-07-28 16:50:32 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:50:32 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:50:32 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:50:32 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:50:48 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:50:48 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:50:48 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:50:48 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - hi
+2025-07-28 16:50:49 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:53:26 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:53:26 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:53:26 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:53:26 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:53:26 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Promises., False, False, 0.5
+2025-07-28 16:53:27 [wxauto] [DEBUG] [main.py:192]  Promises. 切换到聊天窗口: Promises.
+2025-07-28 16:53:27 [wxauto] [DEBUG] [sessionbox.py:152]  打开独立窗口: Promises.
+2025-07-28 16:53:27 [wxauto] [DEBUG] [sessionbox.py:156]  找到会话: Promises.
+2025-07-28 16:53:35 [wxauto] [DEBUG] [msg.py:79]  content: hi, length: 8
+2025-07-28 16:53:35 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - hi
+2025-07-28 16:53:35 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:53:36 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:53:36 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:53:36 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:53:36 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:53:36 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:53:36 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:53:38 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000142C4CBF650>
+2025-07-28 16:53:38 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:53:38 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:53:38 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:53:38 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:53:38 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:53:38 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:53:38 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:53:38 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:53:38 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:53:47 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:53:47 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:53:47 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:53:51 [wxauto] [DEBUG] [msg.py:79]  content: Hello! How can I assist you today? If you have any questions or need help with something specific, feel free to ask! 😊, length: 8
+2025-07-28 16:53:51 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - Hello! How can I assist you today? If you have any questions or need help with something specific, feel free to ask! 😊
+2025-07-28 16:53:51 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:53:51 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:53:51 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:53:52 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:53:52 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:53:52 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:53:52 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:53:52 [wxauto] [DEBUG] [wx.py:357]  wxauto("Metris") shutdown
+2025-07-28 16:53:54 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000142C4CCD190>
+2025-07-28 16:53:54 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:53:54 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:53:54 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:53:54 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:53:54 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:53:54 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:53:54 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:53:54 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:53:54 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:54:13 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:54:13 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:54:13 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:54:15 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:54:15 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:54:52 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:54:52 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:54:52 [wxauto] [DEBUG] [wx.py:201]  Debug mode is on
+2025-07-28 16:54:52 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-28 16:54:53 [wxauto] [DEBUG] [sessionbox.py:68]  切换聊天窗口: Promises., False, False, 0.5
+2025-07-28 16:54:53 [wxauto] [DEBUG] [main.py:192]  Promises. 切换到聊天窗口: Promises.
+2025-07-28 16:54:53 [wxauto] [DEBUG] [sessionbox.py:152]  打开独立窗口: Promises.
+2025-07-28 16:54:54 [wxauto] [DEBUG] [sessionbox.py:156]  找到会话: Promises.
+2025-07-28 16:55:01 [wxauto] [DEBUG] [msg.py:79]  content: hi, length: 8
+2025-07-28 16:55:01 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - hi
+2025-07-28 16:55:11 [wxauto] [DEBUG] [msg.py:79]  content: hi, length: 8
+2025-07-28 16:55:11 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-07-28 16:55:11 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:55:11 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:55:11 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:55:12 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:55:12 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:55:12 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:55:12 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:55:14 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001954939F990>
+2025-07-28 16:55:14 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:55:14 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:55:14 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:55:14 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:55:14 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:55:14 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:55:14 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:55:14 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:55:14 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:55:36 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:55:36 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:55:36 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:55:38 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - hi
+2025-07-28 16:55:38 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:55:38 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:55:38 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:55:38 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:55:38 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:55:39 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:55:39 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:55:41 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000019548981550>
+2025-07-28 16:55:41 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:55:41 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:55:41 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:55:41 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:55:41 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:55:41 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:55:41 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:55:41 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:55:41 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:55:54 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:55:54 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:55:54 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:55:57 [wxauto] [DEBUG] [msg.py:79]  content: 您好！请问有什么可以帮助您的吗？如果需要查询标签值，请提供具体的标签ID。, length: 8
+2025-07-28 16:55:57 [wxauto] [DEBUG] [msg.py:79]  content: 您好！请问有什么可以帮助您的吗？如果需要查询标签值，请提供具体的标签ID。, length: 8
+2025-07-28 16:55:57 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - 您好！请问有什么可以帮助您的吗？如果需要查询标签值，请提供具体的标签ID。
+2025-07-28 16:55:57 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - 您好！请问有什么可以帮助您的吗？如果需要查询标签值，请提供具体的标签ID。
+2025-07-28 16:56:20 [wxauto] [DEBUG] [msg.py:79]  content: 帮我查看一下标签为 10 的实时值, length: 8
+2025-07-28 16:56:20 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-07-28 16:56:21 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:56:21 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:56:21 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:56:21 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:56:21 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:56:21 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:56:23 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001954377C890>
+2025-07-28 16:56:23 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:56:23 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:56:23 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:56:23 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:56:23 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:56:24 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:56:24 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:56:24 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:56:24 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:56:24 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:56:47 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:56:47 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:56:47 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:56:48 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - 帮我查看一下标签为 10 的实时值
+2025-07-28 16:56:48 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:56:48 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:56:48 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:56:49 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:56:49 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:56:49 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:56:51 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000195493819D0>
+2025-07-28 16:56:51 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:56:51 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:56:51 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:56:51 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:56:51 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:56:51 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:56:51 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:56:51 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:56:51 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:56:52 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:57:20 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:57:20 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:57:20 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:57:21 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:57:21 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:57:21 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:57:21 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:57:21 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:57:22 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:57:22 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:57:22 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:57:22 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:57:28 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:57:28 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:57:28 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:57:28 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 1352, in _iter_next_step
+    output = self._action_agent.plan(
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 455, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 3437, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 3423, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 2214, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 3385, in _transform
+    yield from final_pipeline
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 1446, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 1014, in stream
+    yield self.invoke(input, config, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\output_parsers\base.py", line 196, in invoke
+    return self._call_with_config(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\base.py", line 1939, in _call_with_config
+    context.run(
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\runnables\config.py", line 429, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\output_parsers\base.py", line 197, in <lambda>
+    lambda inner_input: self.parse_result(
+                        ^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain_core\output_parsers\base.py", line 250, in parse_result
+    return self.parse(result[0].text)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\output_parsers\react_single_input.py", line 76, in parse
+    raise OutputParserException(
+langchain_core.exceptions.OutputParserException: Could not parse LLM output: `<think>
+
+标签ID为10的实时值为 **227.49**（数据更新时间：2025-04-01 16:47:41）。当前数据质量状态为正常（质量码：192）。需要其他帮助吗？`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "c:\Users\Administrator\yt\lc\main.py", line 60, in my_callback
+    reply = ollama_reply(chat.who, msg.content)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\yt\lc\main.py", line 42, in ollama_reply
+    response = agent_executor.invoke({"input": message})
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\chains\base.py", line 165, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 1625, in _call
+    next_step_output = self._take_next_step(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 1325, in _take_next_step
+    list(
+  File "C:\Metris\Metris.Python\WPy64-31160\python-3.11.6.amd64\Lib\site-packages\langchain\agents\agent.py", line 1369, in _iter_next_step
+    raise ValueError(msg) from e
+ValueError: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `<think>
+
+标签ID为10的实时值为 **227.49**（数据更新时间：2025-04-01 16:47:41）。当前数据质量状态为正常（质量码：192）。需要其他帮助吗？`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+
+2025-07-28 16:57:30 [wxauto] [DEBUG] [msg.py:79]  content: 您好！请问有什么可以帮助您的吗？如果需要查询标签值，请提供具体的标签ID。, length: 8
+2025-07-28 16:57:30 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - 您好！请问有什么可以帮助您的吗？如果需要查询标签值，请提供具体的标签ID。
+2025-07-28 16:59:08 [wxauto] [DEBUG] [msg.py:79]  content: 10, length: 8
+2025-07-28 16:59:08 [wxauto] [DEBUG] [wx.py:223]  [system base]获取到新消息：Promises. - 以下为新消息
+2025-07-28 16:59:09 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:59:09 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:59:09 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:59:09 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:59:09 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:59:10 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:59:12 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000195493AE110>
+2025-07-28 16:59:12 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:59:12 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:59:12 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:59:12 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:59:12 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:59:12 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:59:12 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:59:12 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:59:12 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:59:13 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 16:59:36 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 16:59:36 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 16:59:36 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 16:59:36 [wxauto] [DEBUG] [wx.py:223]  [friend text]获取到新消息：Promises. - 10
+2025-07-28 16:59:37 [langsmith.client] [DEBUG] [_background_thread.py:594]  Tracing control thread func compress parallel called
+2025-07-28 16:59:37 [langsmith.client] [DEBUG] [_background_thread.py:630]  Client refs count indicates we're the only remaining reference to the client, stopping compression thread
+2025-07-28 16:59:37 [langsmith.client] [DEBUG] [_background_thread.py:726]  Compressed traces control thread is shutting down
+2025-07-28 16:59:37 [langsmith.client] [DEBUG] [_background_thread.py:522]  Client refs count indicates we're the only remaining reference to the client, stopping tracing thread
+2025-07-28 16:59:37 [langsmith.client] [DEBUG] [_background_thread.py:585]  Tracing control thread is shutting down
+2025-07-28 16:59:37 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.started host='localhost' port=11434 local_address=None timeout=None socket_options=None
+2025-07-28 16:59:39 [httpcore.connection] [DEBUG] [_trace.py:47]  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001954939CE90>
+2025-07-28 16:59:39 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 16:59:39 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 16:59:39 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 16:59:39 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 16:59:39 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 16:59:40 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 08:59:40 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 16:59:40 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 16:59:40 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 16:59:41 [langsmith.client] [DEBUG] [client.py:250]  Closing Client.session
+2025-07-28 17:00:14 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 17:00:14 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 17:00:14 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 17:00:15 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.started request=<Request [b'POST']>
+2025-07-28 17:00:15 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_headers.complete
+2025-07-28 17:00:15 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.started request=<Request [b'POST']>
+2025-07-28 17:00:15 [httpcore.http11] [DEBUG] [_trace.py:47]  send_request_body.complete
+2025-07-28 17:00:15 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.started request=<Request [b'POST']>
+2025-07-28 17:00:16 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/x-ndjson'), (b'Date', b'Mon, 28 Jul 2025 09:00:16 GMT'), (b'Transfer-Encoding', b'chunked')])
+2025-07-28 17:00:16 [httpx] [INFO] [_client.py:1025]  HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-28 17:00:16 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.started request=<Request [b'POST']>
+2025-07-28 17:00:22 [httpcore.http11] [DEBUG] [_trace.py:47]  receive_response_body.complete
+2025-07-28 17:00:22 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.started
+2025-07-28 17:00:22 [httpcore.http11] [DEBUG] [_trace.py:47]  response_closed.complete
+2025-07-28 17:00:24 [wxauto] [DEBUG] [msg.py:79]  content: 您好！请问有什么可以帮助您的吗？如果需要查询标签值，请提供具体的标签ID。, length: 8
+2025-07-28 17:00:24 [wxauto] [DEBUG] [msg.py:79]  content: 您好！请问有什么可以帮助您的吗？如果需要查询标签值，请提供具体的标签ID。, length: 8
+2025-07-28 17:00:24 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - 您好！请问有什么可以帮助您的吗？如果需要查询标签值，请提供具体的标签ID。
+2025-07-28 17:00:24 [wxauto] [DEBUG] [wx.py:223]  [self text]获取到新消息：Promises. - 您好！请问有什么可以帮助您的吗？如果需要查询标签值，请提供具体的标签ID。
